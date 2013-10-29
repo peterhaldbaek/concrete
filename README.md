@@ -43,3 +43,5 @@ That is basically all there is to it. No need for writing tedious CRUD code anym
     foo.delete();
 
 You still need to have your own implementation of SQLiteOpenHelper which creates the tables for you.
+
+Please note that relations are not supported.
